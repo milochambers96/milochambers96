@@ -6,7 +6,7 @@ As a Full-Stack Software Engineer with a diverse background in Anthropology, Con
 
 I’ve transitioned from ESG policy research to financial crime investigations, to building innovative full-stack applications that deliver user-focused solutions. My experience in pattern recognition and systematic analysis drives me to create applications that are not only efficient but also impactful for the intended user groups.
 
-🌐 Check out my [portfolio](https://milochambers.co.uk) and connect with me on [LinkedIn](https://www.linkedin.com/in/milochambers/).
+🌐 Check out my [portfolio](https://milochambers.co.uk) and connect with me on [LinkedIn](https://www.linkedin.com/in/milo-chambers/).
 
 I am actively seeking opportunities as a Junior Software Engineer — whether in a full-time role or freelance capacity — where I can leverage my diverse background and technical expertise while continuing to grow as a developer. I am particularly drawn to organisations that value creative human-centred approaches to problem-solving.
 
