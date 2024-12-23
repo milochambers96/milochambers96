@@ -14,46 +14,37 @@ I am actively seeking opportunities as a Junior Software Engineer — whether in
 
 I have experience across the full stack, with a focus on creating seamless user experiences and scalable solutions. My technical toolkit includes:
 
-<div style="display: flex; justify-content: space-between; gap: 2rem;">
-  <div style="width: 30%;">
-    <h3>🖥️ Frontend</h3>
-    <ul>
-      <li>React</li>
-      <li>JavaScript (ES6+)</li>
-      <li>TypeScript</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>Tailwind CSS</li>
-      <li>Bulma</li>
-      <li>Vite</li>
-    </ul>
-  </div>
+## 💻 Technical Skills
 
-  <div style="width: 30%;">
-    <h3>⚙️ Backend</h3>
-    <ul>
-      <li>Node.js</li>
-      <li>Express.js</li>
-      <li>Python</li>
-      <li>Django</li>
-      <li>Databases</li>
-      <li>PostgreSQL</li>
-      <li>MongoDB</li>
-    </ul>
-  </div>
+I have experience across the full stack, with a focus on creating seamless user experiences and scalable solutions. My technical toolkit includes:
 
-  <div style="width: 30%;">
-    <h3>🛠️ Tools</h3>
-    <ul>
-      <li>Git</li>
-      <li>GitHub</li>
-      <li>Heroku</li>
-      <li>Terminal</li>
-      <li>Postman</li>
-      <li>Markdown</li>
-    </ul>
-  </div>
-</div>
+### 🖥️ Frontend:
+- React
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bulma
+- Vite
+
+### ⚙️ Backend:
+- Node.js
+- Express.js
+- Python
+- Django
+- Databases
+- PostgreSQL
+- MongoDB
+
+### 🛠️ Tools:
+- Git
+- GitHub
+- Heroku
+- Terminal
+- Postman
+- Markdown
+
 
 ## 🚀 My Approach
 
