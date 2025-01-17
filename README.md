@@ -1,5 +1,5 @@
-[miloC-linkedin-banner](https://github.com/user-attachments/assets/3b3d04fa-6e65-4c36-9d65-4f6082999766)
- 
+ ![miloC-linkedin-banner](https://github.com/user-attachments/assets/e253172c-42e0-4818-84b0-d8554ae5ffca)
+
 # Hi, I'm Milo 👋
 
 ## 🧩 A Little Bit About Me
