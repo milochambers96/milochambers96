@@ -1,4 +1,6 @@
-## Hi, I'm Milo 👋
+[miloC-linkedin-banner](https://github.com/user-attachments/assets/3b3d04fa-6e65-4c36-9d65-4f6082999766)
+ 
+# Hi, I'm Milo 👋
 
 ## 🧩 A Little Bit About Me
 
